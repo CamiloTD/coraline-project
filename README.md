@@ -30,3 +30,14 @@ For example:
  - [X] Interactive Screens in Museums, Art Expositions, etc...
  - [X] Controlling local IOT devices
 
+## ¿How do i start using Coraline?
+
+Unfortunately, Coraline project is not ready yet, but we are working very very persistently to make a release very soon.
+
+If you love <3 the idea, we suggest you to contribute us by:
+
+- **Contributing with translations, ideas and language correction in this repo**
+- **Contributing at Coraline core library at:** [coraline](https://github.com/CamiloTD/coraline)
+- **Contributing at Coraline client library at:** [coraline-client](https://github.com/CamiloTD/coraline-client)
+
+- **Donating to our Bitcoin Wallet:** 1GRLN4C8U7TezPLa6cLHHdfSpSF3qHNuR5
