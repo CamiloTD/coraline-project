@@ -1,5 +1,8 @@
 # Coraline Project
 
+**Coraline core NodeJS repository:**  [coraline-core](https://github.com/CamiloTD/coraline)
+**Coraline client Front-end Javascript repository:**  [coraline-client](https://github.com/CamiloTD/coraline-client)
+
 ### ¿What's Coraline?
 Coraline Project is an IOT project, who aims to give everyone tools for creating **interactive educative content** *(IEC)*, giving to the teachers and students a dynamic environment for learning.
 
