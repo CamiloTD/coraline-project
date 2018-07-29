@@ -12,7 +12,9 @@ Coraline is made to be **very** versatile, you will only need to install and run
 ### Getting into the matter
 
 In the simplest case, a Coraline Environment is just a **HTML5** content that is being controled by one or more devices at the same time.
+
 ![enter image description here](https://lh3.googleusercontent.com/CcXilGGT1Yoopmu4S5jP-5PV8kQ9A-Jvr08G3afTU65c3jFWY0fTvDjdFlWO3fsXBA3XjD891MT8)
+
 *Simple Coraline Example*
 
 But also, **Coralines** are pretty versatile, and you can use any *HTML5* device as main screen, for example, another smartphone:
