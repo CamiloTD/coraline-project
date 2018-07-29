@@ -15,7 +15,11 @@ In the simplest case, a Coraline Environment is just a **HTML5** content that is
 ![enter image description here](https://lh3.googleusercontent.com/CcXilGGT1Yoopmu4S5jP-5PV8kQ9A-Jvr08G3afTU65c3jFWY0fTvDjdFlWO3fsXBA3XjD891MT8)
 *Simple Coraline Example*
 
+But also, **Coralines** are pretty versatile, and you can use any *HTML5* device as main screen, for example, another smartphone:
 
+
+![enter image description here](https://lh3.googleusercontent.com/R1XXwE3NsdjWFXpNRP3bK6BJ7P7oOr-YP2CdGcscdGr4YflSD3vBxExPeCLfONFFyAil5Okujr0G)
+*Using Smartphone as main screen*
 
 ### ¿What can i use Coraline for?
 Coraline's goal is to give *IEC* (Interactive Educative Content) to everyone, but it can also be used for creating interactive content for a lot of different areas.
