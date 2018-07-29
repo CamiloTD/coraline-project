@@ -1,6 +1,7 @@
 # Coraline Project
 
 **Coraline core NodeJS repository:**  [coraline-core](https://github.com/CamiloTD/coraline)
+
 **Coraline client Front-end Javascript repository:**  [coraline-client](https://github.com/CamiloTD/coraline-client)
 
 ### ¿What's Coraline?
